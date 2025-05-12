@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2025-02-12T16:33:24Z</responseDate>
+  <request identifier="oai:dare.uva.nl:openaire_cris_publications/adc81ae7-eb61-4d53-a80f-91f6f3365434" metadataPrefix="nl_didl" verb="GetRecord">https://pure.uva.nl/ws/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:dare.uva.nl:openaire_cris_publications/adc81ae7-eb61-4d53-a80f-91f6f3365434</identifier>
+        <datestamp>2019-03-18T08:29:45Z</datestamp>
+        <setSpec>openaire_cris_publications</setSpec>
+      </header>
+      <metadata>
+        <didl:DIDL xmlns:didl="urn:mpeg:mpeg21:2002:02-DIDL-NS" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:didmodel="urn:mpeg:mpeg21:2002:02-DIDMODEL-NS" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dip="urn:mpeg:mpeg21:2005:01-DIP-NS" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DIDLDocumentId="urn:nbn:nl:ui:29-1.510812" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd urn:mpeg:mpeg21:2002:02-DIDL-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/did/didl.xsd urn:mpeg:mpeg21:2002:01-DII-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dii/dii.xsd urn:mpeg:mpeg21:2005:01-DIP-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dip/dip.xsd">
+          <didl:Item>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dii:Identifier>urn:nbn:nl:ui:29-1.510812</dii:Identifier>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dcterms:modified>2019-03-18T08:29:45Z</dcterms:modified>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Component>
+              <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/delayed-exciton-emission-and-its-relation-to-blinking-in-cdse-quantum-dots(adc81ae7-eb61-4d53-a80f-91f6f3365434).html"></didl:Resource>
+            </didl:Component>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/descriptiveMetadata"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-1.510812-mods</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="application/xml">
+                  <mods:mods xmlns:gal="info:eu-repo/grantAgreement" xmlns:dai="info:eu-repo/dai" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd ">
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:recordInfo>
+                      <mods:recordContentSource>local</mods:recordContentSource>
+                    </mods:recordInfo>
+                    <mods:identifier type="pure/id">710504</mods:identifier>
+                    <mods:identifier type="pure/uuid">adc81ae7-eb61-4d53-a80f-91f6f3365434</mods:identifier>
+                    <mods:identifier type="local">researchoutputwizard: METIS_UVA_510812</mods:identifier>
+                    <mods:identifier type="wos">000364725400082</mods:identifier>
+                    <mods:identifier type="local">record.ids: 510812</mods:identifier>
+                    <mods:identifier type="local">nbn.id: 1.510812</mods:identifier>
+                    <mods:identifier type="hdl" typeURI="http://id.loc.gov/vocabulary/identifiers/hdl">11245/1.510812</mods:identifier>
+                    <mods:identifier type="local">file.ids: 172961</mods:identifier>
+                    <mods:identifier type="local">file.ids: 172962</mods:identifier>
+                    <mods:identifier type="scopus">84946831447</mods:identifier>
+                    <mods:note xlink:type="simple">With supporting information</mods:note>
+                    <mods:titleInfo lang="eng" xlink:type="simple">
+                      <mods:title>Delayed exciton emission and its relation to blinking in CdSe quantum dots</mods:title>
+                    </mods:titleInfo>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">F.T.</mods:namePart>
+                      <mods:namePart type="family">Rabouw</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">M.</mods:namePart>
+                      <mods:namePart type="family">Kamp</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">R.J.A.</mods:namePart>
+                      <mods:namePart type="family">van Dijk-Moes</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">D.R.</mods:namePart>
+                      <mods:namePart type="family">Gamelin</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">d9cd39c1-d810-4d53-a1df-b69bb9c8af4e</mods:nameIdentifier>
+                      <mods:nameIdentifier type="dai-nl" typeURI="info:eu-repo/dai/nl">251263622</mods:nameIdentifier>
+                      <mods:nameIdentifier type="isni" typeURI="http://id.loc.gov/vocabulary/identifiers/isni">0000000391578790</mods:nameIdentifier>
+                      <mods:namePart type="given">A.F.</mods:namePart>
+                      <mods:namePart type="family">Koenderink</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">A.</mods:namePart>
+                      <mods:namePart type="family">Meijerink</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">D.</mods:namePart>
+                      <mods:namePart type="family">Vanmaekelbergh</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">3da5e961-e0d0-471a-a027-12bcc8909e81</mods:nameIdentifier>
+                      <mods:namePart>Quantum Gases &amp; Quantum Information (WZI, IoP, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23592</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_Quantum_Gases_&amp;_Quantum_Information</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:genre>info:eu-repo/semantics/article</mods:genre>
+                    <mods:note type="peerreview status" xlink:type="simple">Peer reviewed</mods:note>
+                    <mods:note type="publication category" xlink:type="simple">Academic</mods:note>
+                    <mods:note type="publication workflow state" xlink:type="simple">validated</mods:note>
+                    <mods:originInfo>
+                      <mods:dateIssued encoding="w3cdtf">2015</mods:dateIssued>
+                      <mods:dateOther encoding="w3cdtf" type="published">2015</mods:dateOther>
+                    </mods:originInfo>
+                    <mods:identifier type="doi" typeURI="http://id.loc.gov/vocabulary/identifiers/doi">10.1021/acs.nanolett.5b03818</mods:identifier>
+                    <mods:language>
+                      <mods:languageTerm authority="rfc3066" type="code">en</mods:languageTerm>
+                    </mods:language>
+                    <mods:abstract lang="eng" type="content" xlink:type="simple">The efficiency and stability of emission from semiconductor nanocrystal quantum dots (QDs) is negatively affected by "blinking" on the single-nanocrystal level, that is, random alternation of bright and dark periods. The time scales of these fluctuations can be as long as many seconds, orders of magnitude longer than typical lifetimes of exciton states in QDs. In this work, we investigate photoluminescence from QDs delayed over microseconds to milliseconds. Our results prove the existence of long-lived charge-separated states in QDs. We study the properties of delayed emission as a direct way to learn about charge carrier separation and recovery of the exciton state. A new microscopic model is developed to connect delayed emission to exciton recombination and blinking from which we conclude that bright periods in blinking are in fact not characterized by uninterrupted optical cycling as often assumed.</mods:abstract>
+                    <mods:accessCondition type="info:eu-repo/semantics/closedAccess" xlink:type="simple"></mods:accessCondition>
+                    <mods:note type="metadata visibility" xlink:type="simple">FREE</mods:note>
+                    <mods:note type="creatorCount" xlink:type="simple">7</mods:note>
+                    <mods:relatedItem type="host" xlink:role="" xlink:type="simple">
+                      <mods:titleInfo xlink:type="simple">
+                        <mods:title>Nano Letters</mods:title>
+                      </mods:titleInfo>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">1530-6984</mods:identifier>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">1530-6992</mods:identifier>
+                      <mods:originInfo>
+                        <mods:publisher>American Chemical Society</mods:publisher>
+                      </mods:originInfo>
+                      <mods:part>
+                        <mods:detail type="volume">
+                          <mods:number>15</mods:number>
+                          <mods:caption>vol.</mods:caption>
+                        </mods:detail>
+                        <mods:detail type="issue">
+                          <mods:number>11</mods:number>
+                          <mods:caption>no.</mods:caption>
+                        </mods:detail>
+                        <mods:extent unit="page">
+                          <mods:start>7718</mods:start>
+                          <mods:end>7725</mods:end>
+                          <mods:list>7718-7725</mods:list>
+                        </mods:extent>
+                      </mods:part>
+                    </mods:relatedItem>
+                    <mods:note type="publicationStatus" xlink:type="simple">published</mods:note>
+                  </mods:mods>
+                </didl:Resource>
+              </didl:Component>
+            </didl:Item>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/humanStartPage"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-1.510812/jump-off-page</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/delayed-exciton-emission-and-its-relation-to-blinking-in-cdse-quantum-dots(adc81ae7-eb61-4d53-a80f-91f6f3365434).html"></didl:Resource>
+              </didl:Component>
+            </didl:Item>
+          </didl:Item>
+        </didl:DIDL>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

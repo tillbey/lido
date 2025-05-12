@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2025-02-18T12:26:45Z</responseDate>
+  <request identifier="oai:dare.uva.nl:openaire_cris_publications/ff50cff4-601e-469b-9f92-6660e43e723a" metadataPrefix="nl_didl" verb="GetRecord">https://pure.uva.nl/ws/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:dare.uva.nl:openaire_cris_publications/ff50cff4-601e-469b-9f92-6660e43e723a</identifier>
+        <datestamp>2024-10-02T06:02:28Z</datestamp>
+        <setSpec>openaire_cris_publications</setSpec>
+      </header>
+      <metadata>
+        <didl:DIDL xmlns:didl="urn:mpeg:mpeg21:2002:02-DIDL-NS" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:didmodel="urn:mpeg:mpeg21:2002:02-DIDMODEL-NS" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dip="urn:mpeg:mpeg21:2005:01-DIP-NS" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DIDLDocumentId="urn:nbn:nl:ui:29-ff50cff4-601e-469b-9f92-6660e43e723a" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd urn:mpeg:mpeg21:2002:02-DIDL-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/did/didl.xsd urn:mpeg:mpeg21:2002:01-DII-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dii/dii.xsd urn:mpeg:mpeg21:2005:01-DIP-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dip/dip.xsd">
+          <didl:Item>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dii:Identifier>urn:nbn:nl:ui:29-ff50cff4-601e-469b-9f92-6660e43e723a</dii:Identifier>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dcterms:modified>2024-04-25T13:53:03Z</dcterms:modified>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Component>
+              <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/biscuit-causal-representation-learning-from-binary-interactions(ff50cff4-601e-469b-9f92-6660e43e723a).html"></didl:Resource>
+            </didl:Component>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/descriptiveMetadata"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-ff50cff4-601e-469b-9f92-6660e43e723a-mods</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="application/xml">
+                  <mods:mods xmlns:gal="info:eu-repo/grantAgreement" xmlns:dai="info:eu-repo/dai" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd ">
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:recordInfo>
+                      <mods:recordContentSource>local</mods:recordContentSource>
+                    </mods:recordInfo>
+                    <mods:identifier type="pure/id">152764261</mods:identifier>
+                    <mods:identifier type="pure/uuid">ff50cff4-601e-469b-9f92-6660e43e723a</mods:identifier>
+                    <mods:identifier type="scopus">85170096912</mods:identifier>
+                    <mods:identifier type="local">ORCID: /0000-0002-3639-6938/work/151107441</mods:identifier>
+                    <mods:identifier type="hdl" typeURI="http://id.loc.gov/vocabulary/identifiers/hdl">11245.1/ff50cff4-601e-469b-9f92-6660e43e723a</mods:identifier>
+                    <mods:physicalDescription>
+                      <mods:extent unit="pages">11</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:note xlink:type="simple">Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, 31-4 August 2023, Pittsburgh, PA, USA. - With supplementary material</mods:note>
+                    <mods:titleInfo lang="eng" xlink:type="simple">
+                      <mods:title>BISCUIT: Causal Representation Learning from Binary Interactions</mods:title>
+                    </mods:titleInfo>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">3f54f6bf-5d04-4463-b2b6-b62f842f1d77</mods:nameIdentifier>
+                      <mods:nameIdentifier type="isni" typeURI="http://id.loc.gov/vocabulary/identifiers/isni">0000000506024684</mods:nameIdentifier>
+                      <mods:nameIdentifier type="orcid" typeURI="http://id.loc.gov/vocabulary/identifiers/orcid">0000-0002-3639-6938</mods:nameIdentifier>
+                      <mods:namePart type="given">P.</mods:namePart>
+                      <mods:namePart type="family">Lippe</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">38281a64-5fc7-437d-8332-33b31fa1a508</mods:nameIdentifier>
+                      <mods:nameIdentifier type="dai-nl" typeURI="info:eu-repo/dai/nl">411640518</mods:nameIdentifier>
+                      <mods:nameIdentifier type="isni" typeURI="http://id.loc.gov/vocabulary/identifiers/isni">0000000493434050</mods:nameIdentifier>
+                      <mods:namePart type="given">S.</mods:namePart>
+                      <mods:namePart type="family">Magliacane</mods:namePart>
+                      <mods:affiliation>Algorithmic Data Science (IVI, FNWI)</mods:affiliation>
+                      <mods:affiliation>IvI Research (FNWI)</mods:affiliation>
+                      <mods:affiliation>Intelligent Data Engineering Lab (IvI, FNWI)</mods:affiliation>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">S.</mods:namePart>
+                      <mods:namePart type="family">Löwe</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">Y.M.</mods:namePart>
+                      <mods:namePart type="family">Asano</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">T.</mods:namePart>
+                      <mods:namePart type="family">Cohen</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">06fcdae2-4d9c-4e95-844e-883164ce6749</mods:nameIdentifier>
+                      <mods:nameIdentifier type="dai-nl" typeURI="info:eu-repo/dai/nl">369510127</mods:nameIdentifier>
+                      <mods:nameIdentifier type="isni" typeURI="http://id.loc.gov/vocabulary/identifiers/isni">0000000419577539</mods:nameIdentifier>
+                      <mods:namePart type="given">E.</mods:namePart>
+                      <mods:namePart type="family">Gavves</mods:namePart>
+                      <mods:affiliation>Video &amp; Image Sense Lab (IvI, FNWI)</mods:affiliation>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchgroup</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">81e61e3a-fe9d-472b-83eb-de7ea75366b8</mods:nameIdentifier>
+                      <mods:namePart>Video &amp; Image Sense Lab (IvI, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23447</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_Video_&amp;_Image_Sense_Lab</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">7cf4ebb3-9275-439a-90ab-7e26f7125be8</mods:nameIdentifier>
+                      <mods:namePart>Algorithmic Data Science (IVI, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23541</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">4606f609-28f1-4751-901a-68b3f64f97ad</mods:nameIdentifier>
+                      <mods:namePart>IvI Research (FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23540</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_IvI_Other_research</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchgroup</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">7be5937c-2b47-4698-81e8-297755fe3139</mods:nameIdentifier>
+                      <mods:namePart>Intelligent Data Engineering Lab (IvI, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23541</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_Intelligent_Data_Engineering_Lab</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">1d658c34-21a7-4b07-8952-2b08a049fc3a</mods:nameIdentifier>
+                      <mods:namePart>Computer Vision (IVI, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23448</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_Computer_Vision</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">dfefe074-153e-4c2f-94f4-e6723b28d7d5</mods:nameIdentifier>
+                      <mods:namePart>Amsterdam Machine Learning lab (IVI, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23445</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_Amsterdam_Machine_Learning_lab</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:genre>info:eu-repo/semantics/article</mods:genre>
+                    <mods:physicalDescription>
+                      <mods:form authority="marcform">electronic</mods:form>
+                      <mods:note type="title" xlink:type="simple">lippe23a</mods:note>
+                      <mods:internetMediaType>application/pdf</mods:internetMediaType>
+                      <mods:extent unit="bytes">1124169</mods:extent>
+                      <mods:note type="location" xlink:href="https://pure.uva.nl/ws/files/155649525/lippe23a.pdf" xlink:type="simple"></mods:note>
+                      <mods:note type="visibility" xlink:type="simple">FREE</mods:note>
+                      <mods:note type="license" typeURI="/dk/atira/pure/core/document/licenses" xlink:type="simple">other</mods:note>
+                      <mods:note type="version" typeURI="/dk/atira/pure/researchoutput/electronicversion/versiontype" xlink:type="simple">publishersversion</mods:note>
+                      <mods:note type="access" typeURI="/dk/atira/pure/core/openaccesspermission" xlink:type="simple">open</mods:note>
+                    </mods:physicalDescription>
+                    <mods:note type="peerreview status" xlink:type="simple">Non peer reviewed</mods:note>
+                    <mods:note type="publication category" xlink:type="simple">Academic</mods:note>
+                    <mods:note type="publication workflow state" xlink:type="simple">validated</mods:note>
+                    <mods:originInfo>
+                      <mods:dateIssued encoding="w3cdtf">2023</mods:dateIssued>
+                      <mods:dateOther encoding="w3cdtf" type="published">2023</mods:dateOther>
+                    </mods:originInfo>
+                    <mods:language>
+                      <mods:languageTerm authority="rfc3066" type="code">en</mods:languageTerm>
+                    </mods:language>
+                    <mods:abstract lang="eng" type="content" xlink:type="simple">Identifying the causal variables of an environment and how to intervene on them is of core value in applications such as robotics and embodied AI. While an agent can commonly interact with the environment and may implicitly perturb the behavior of some of these causal variables, often the targets it affects remain unknown. In this paper, we show that causal variables can still be identified for many common setups, e.g., additive Gaussian noise models, if the agent's interactions with a causal variable can be described by an unknown binary variable. This happens when each causal variable has two different mechanisms, e.g., an observational and an interventional one. Using this identifiability result, we propose BISCUIT, a method for simultaneously learning causal variables and their corresponding binary interaction variables. On three robotic-inspired datasets, BISCUIT accurately identifies causal variables and can even be scaled to complex, realistic environments for embodied AI.</mods:abstract>
+                    <mods:accessCondition type="info:eu-repo/semantics/openAccess" xlink:type="simple"></mods:accessCondition>
+                    <mods:location>
+                      <mods:url>https://openreview.net/forum?id=VS7Dn31xuB</mods:url>
+                    </mods:location>
+                    <mods:location>
+                      <mods:url note="Scopus publication">http://www.scopus.com/inward/record.url?scp=85170096912&amp;partnerID=8YFLogxK</mods:url>
+                    </mods:location>
+                    <mods:location>
+                      <mods:url>https://proceedings.mlr.press/v216/lippe23a.html</mods:url>
+                    </mods:location>
+                    <mods:note type="metadata visibility" xlink:type="simple">FREE</mods:note>
+                    <mods:note type="creatorCount" xlink:type="simple">6</mods:note>
+                    <mods:relatedItem type="host" xlink:role="" xlink:type="simple">
+                      <mods:titleInfo xlink:type="simple">
+                        <mods:title>Proceedings of Machine Learning Research</mods:title>
+                      </mods:titleInfo>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">1938-7228</mods:identifier>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">2640-3498</mods:identifier>
+                      <mods:originInfo>
+                        <mods:publisher>ML Research Press</mods:publisher>
+                      </mods:originInfo>
+                      <mods:part>
+                        <mods:detail type="volume">
+                          <mods:number>216</mods:number>
+                          <mods:caption>vol.</mods:caption>
+                        </mods:detail>
+                        <mods:extent unit="page">
+                          <mods:start>1263</mods:start>
+                          <mods:end>1273</mods:end>
+                          <mods:total>11</mods:total>
+                          <mods:list>1263-1273</mods:list>
+                        </mods:extent>
+                      </mods:part>
+                    </mods:relatedItem>
+                    <mods:note type="publicationStatus" xlink:type="simple">published</mods:note>
+                    <mods:note type="funding" xlink:type="simple" xml:lang="eng">We thank SURF for the support in using the National Supercomputer Snellius. This work is financially supported by Qualcomm Technologies Inc., the University of Amsterdam and the allowance Top consortia for Knowledge and Innovation (TKIs) from the Netherlands Ministry of Economic Affairs and Climate Policy.</mods:note>
+                  </mods:mods>
+                </didl:Resource>
+              </didl:Component>
+            </didl:Item>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/objectFile"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-ff50cff4-601e-469b-9f92-6660e43e723a-155649524</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dcterms:accessRights>http://purl.org/eprint/accessRights/OpenAccess</dcterms:accessRights>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="application/pdf" ref="https://pure.uva.nl/ws/files/155649525/lippe23a.pdf"></didl:Resource>
+              </didl:Component>
+            </didl:Item>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/humanStartPage"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-ff50cff4-601e-469b-9f92-6660e43e723a/jump-off-page</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/biscuit-causal-representation-learning-from-binary-interactions(ff50cff4-601e-469b-9f92-6660e43e723a).html"></didl:Resource>
+              </didl:Component>
+            </didl:Item>
+          </didl:Item>
+        </didl:DIDL>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

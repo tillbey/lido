@@ -1,0 +1,954 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="Publisher" Owner="NLM">
+            <PMID Version="1">39972142
+            </PMID>
+            <DateRevised>
+                <Year>2025
+                </Year>
+                <Month>02
+                </Month>
+                <Day>19
+                </Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1476-4687
+                    </ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <PubDate>
+                            <Year>2025
+                            </Year>
+                            <Month>Feb
+                            </Month>
+                            <Day>19
+                            </Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Nature
+                    </Title>
+                    <ISOAbbreviation>Nature
+                    </ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Nociceptive neurons promote gastric tumour progression via a CGRP-RAMP1 axis.
+                </ArticleTitle>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41586-025-08591-1
+                </ELocationID>
+                <Abstract>
+                    <AbstractText>Cancer cells have been shown to exploit neurons to modulate their survival and growth, including through the establishment of neural circuits within the central nervous system
+                        <sup>1-3
+                        </sup>. Here we report a distinct pattern of cancer-nerve interactions between the peripheral nervous system and gastric cancer. In multiple mouse models of gastric cancer, nociceptive nerves demonstrated the greatest degree of nerve expansion in an NGF-dependent manner. Neural tracing identified CGRP
+                        <sup>+
+                        </sup> peptidergic neurons as the primary gastric sensory neurons. Three-dimensional co-culture models showed that sensory neurons directly connect with gastric cancer spheroids. Chemogenetic activation of sensory neurons induced the release of calcium into the cytoplasm of cancer cells, promoting tumour growth and metastasis. Pharmacological ablation of sensory neurons or treatment with CGRP inhibitors suppressed tumour growth and extended survival. Depolarization of gastric tumour membranes through in vivo optogenetic activation led to enhanced calcium flux in jugular nucleus complex and CGRP release, defining a cancer cell-peptidergic neuronal circuit. Together, these findings establish the functional connectivity between cancer and sensory neurons, identifying this pathway as a potential therapeutic target.
+                    </AbstractText>
+                    <CopyrightInformation>&#xa9; 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+                    </CopyrightInformation>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Zhi
+                        </LastName>
+                        <ForeName>Xiaofei
+                        </ForeName>
+                        <Initials>X
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Department of General Surgery, Affiliated Hospital of Nantong University, Nantong, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Wu
+                        </LastName>
+                        <ForeName>Feijing
+                        </ForeName>
+                        <Initials>F
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Qian
+                        </LastName>
+                        <ForeName>Jin
+                        </ForeName>
+                        <Initials>J
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ochiai
+                        </LastName>
+                        <ForeName>Yosuke
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Lian
+                        </LastName>
+                        <ForeName>Guodong
+                        </ForeName>
+                        <Initials>G
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Malagola
+                        </LastName>
+                        <ForeName>Ermanno
+                        </ForeName>
+                        <Initials>E
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zheng
+                        </LastName>
+                        <ForeName>Biyun
+                        </ForeName>
+                        <Initials>B
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Gastroenterology, Fujian Medical University Union Hospital, Fujian, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Tu
+                        </LastName>
+                        <ForeName>Ruhong
+                        </ForeName>
+                        <Initials>R
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zeng
+                        </LastName>
+                        <ForeName>Yi
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0002-5477-6686
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Kobayashi
+                        </LastName>
+                        <ForeName>Hiroki
+                        </ForeName>
+                        <Initials>H
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0002-1717-4870
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Xia
+                        </LastName>
+                        <ForeName>Zhangchuan
+                        </ForeName>
+                        <Initials>Z
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0002-1176-0027
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Vagelos College of Physicians &amp; Surgeons, Columbia University Irving Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Wang
+                        </LastName>
+                        <ForeName>Ruizhi
+                        </ForeName>
+                        <Initials>R
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Institute for Genomic Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Peng
+                        </LastName>
+                        <ForeName>Yueqing
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0002-3488-0670
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Institute for Genomic Medicine, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Pathology and Cell Biology, Vagelos College of Physicians and Surgeons, Columbia University, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Shi
+                        </LastName>
+                        <ForeName>Qiongyu
+                        </ForeName>
+                        <Initials>Q
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Chen
+                        </LastName>
+                        <ForeName>Duan
+                        </ForeName>
+                        <Initials>D
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Clinical and Molecular Medicine, Faculty of Medicine and Health Sciences, Norwegian University of Science and Technology, Trondheim, Norway.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ryeom
+                        </LastName>
+                        <ForeName>Sandra W
+                        </ForeName>
+                        <Initials>SW
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0002-9869-4455
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Surgical Science, Department of Surgery, Columbia University Irving Medical Center, New York, NY, USA.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Wang
+                        </LastName>
+                        <ForeName>Timothy C
+                        </ForeName>
+                        <Initials>TC
+                        </Initials>
+                        <Identifier Source="ORCID">0000-0001-5730-3019
+                        </Identifier>
+                        <AffiliationInfo>
+                            <Affiliation>Division of Digestive and Liver Diseases, Irving Cancer Research Center, Columbia University Medical Center, New York, NY, USA. tcw21@cumc.columbia.edu.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng
+                </Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article
+                    </PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2025
+                    </Year>
+                    <Month>02
+                    </Month>
+                    <Day>19
+                    </Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England
+                </Country>
+                <MedlineTA>Nature
+                </MedlineTA>
+                <NlmUniqueID>0410462
+                </NlmUniqueID>
+                <ISSNLinking>0028-0836
+                </ISSNLinking>
+            </MedlineJournalInfo>
+            <CitationSubset>IM
+            </CitationSubset>
+            <CoiStatement>Competing interests: The authors declare no competing interests.
+            </CoiStatement>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2024
+                    </Year>
+                    <Month>2
+                    </Month>
+                    <Day>3
+                    </Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2025
+                    </Year>
+                    <Month>1
+                    </Month>
+                    <Day>3
+                    </Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2025
+                    </Year>
+                    <Month>2
+                    </Month>
+                    <Day>20
+                    </Day>
+                    <Hour>0
+                    </Hour>
+                    <Minute>21
+                    </Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2025
+                    </Year>
+                    <Month>2
+                    </Month>
+                    <Day>20
+                    </Day>
+                    <Hour>0
+                    </Hour>
+                    <Minute>21
+                    </Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2025
+                    </Year>
+                    <Month>2
+                    </Month>
+                    <Day>19
+                    </Day>
+                    <Hour>23
+                    </Hour>
+                    <Minute>35
+                    </Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>aheadofprint
+            </PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">39972142
+                </ArticleId>
+                <ArticleId IdType="doi">10.1038/s41586-025-08591-1
+                </ArticleId>
+                <ArticleId IdType="pii">10.1038/s41586-025-08591-1
+                </ArticleId>
+            </ArticleIdList>
+            <ReferenceList>
+                <Reference>
+                    <Citation>Zeng, Q. et al. Synaptic proximity enables NMDAR signalling to promote brain metastasis. Nature 573, 526&#x2013;531 (2019).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">31534217
+                        </ArticleId>
+                        <ArticleId IdType="pmc">6837873
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-019-1576-6
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Venkatesh, H. S. et al. Electrical and synaptic integration of glioma into neural circuits. Nature 573, 539&#x2013;545 (2019).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">31534222
+                        </ArticleId>
+                        <ArticleId IdType="pmc">7038898
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-019-1563-y
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Venkataramani, V. et al. Glutamatergic synaptic input to glioma cells drives brain tumour progression. Nature 573, 532&#x2013;538 (2019).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">31534219
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-019-1564-x
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Hanahan, D. &amp; Monje, M. Cancer hallmarks intersect with neuroscience in the tumor microenvironment. Cancer Cell 41, 573&#x2013;580 (2023).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36917953
+                        </ArticleId>
+                        <ArticleId IdType="pmc">10202656
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.ccell.2023.02.012
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Venkataramani, V. et al. Glioblastoma hijacks neuronal mechanisms for brain invasion. Cell 185, 2899&#x2013;2917 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">35914528
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cell.2022.06.054
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Krishna, S. et al. Glioblastoma remodelling of human neural circuits decreases survival. Nature 617, 599&#x2013;607 (2023).
+                    </Citation>
+                </Reference>
+                <Reference>
+                    <Citation>Hyman, S. E. Neurotransmitters. Curr. Biol. 15, R154&#x2013;R158 (2005).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15753022
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cub.2005.02.037
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Balood, M. et al. Nociceptor neurons affect cancer immunosurveillance. Nature 611, 405&#x2013;412 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36323780
+                        </ArticleId>
+                        <ArticleId IdType="pmc">9646485
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-022-05374-w
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhang, Y. et al. Cancer cells co-opt nociceptive nerves to thrive in nutrient-poor environments and upon nutrient-starvation therapies. Cell Metab. 34, 1999&#x2013;2017.e10 (2022).
+                    </Citation>
+                </Reference>
+                <Reference>
+                    <Citation>Reavis, H. D., Chen, H. I. &amp; Drapkin, R. Tumor innervation: cancer has some nerve. Trends Cancer 6, 1059&#x2013;1067 (2020).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">32807693
+                        </ArticleId>
+                        <ArticleId IdType="pmc">7688507
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.trecan.2020.07.005
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhao, C. M. et al. Denervation suppresses gastric tumorigenesis. Sci. Transl. Med. 6, 250ra115 (2014).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25143365
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4374618
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1126/scitranslmed.3009569
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Berthoud, H. R. &amp; Neuhuber, W. L. Functional and chemical anatomy of the afferent vagal system. Auton. Neurosci. 85, 1&#x2013;17 (2000).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">11189015
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/S1566-0702(00)00215-0
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Hayakawa, Y. et al. Nerve growth factor promotes gastric tumorigenesis through aberrant cholinergic signaling. Cancer Cell 31, 21&#x2013;34 (2017).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">27989802
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.ccell.2016.11.005
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Chang, W. et al. Hormonal suppression of stem cells inhibits symmetric cell division and gastric tumorigenesis. Cell Stem Cell 26, 739&#x2013;754 (2020).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">32142681
+                        </ArticleId>
+                        <ArticleId IdType="pmc">7214188
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.stem.2020.01.020
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Till, J. E. et al. Oncogenic KRAS and p53 loss drive gastric tumorigenesis in mice that can be attenuated by E-cadherin expression. Cancer Res. 77, 5349&#x2013;5359 (2017).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28760854
+                        </ArticleId>
+                        <ArticleId IdType="pmc">5626624
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1158/0008-5472.CAN-17-0061
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ma, L., Lei, L., Eng, S. R., Turner, E. &amp; Parada, L. F. Brn3a regulation of TrkA/NGF receptor expression in developing sensory neurons. Development 130, 3525&#x2013;3534 (2003).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">12810599
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1242/dev.00582
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lee, S. et al. NGF-TrkA signaling dictates neural ingrowth and aberrant osteochondral differentiation after soft tissue trauma. Nat. Commun. 12, 4939 (2021).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">34400627
+                        </ArticleId>
+                        <ArticleId IdType="pmc">8368242
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41467-021-25143-z
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ji, R. R., Samad, T. A., Jin, S. X., Schmoll, R. &amp; Woolf, C. J. p38 MAPK activation by NGF in primary sensory neurons after inflammation increases TRPV1 levels and maintains heat hyperalgesia. Neuron 36, 57&#x2013;68 (2002).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">12367506
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/S0896-6273(02)00908-X
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Hayakawa, Y. et al. Mist1 expressing gastric stem cells maintain the normal and neoplastic gastric epithelium and are supported by a perivascular stem cell niche. Cancer Cell 28, 800&#x2013;814 (2015).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">26585400
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4684751
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.ccell.2015.10.003
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ahluwalia, A. et al. Reduced NGF in gastric endothelial cells is one of the main causes of impaired angiogenesis in aging gastric mucosa. Cell. Mol. Gastroenterol. Hepatol. 6, 199&#x2013;213 (2018).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">29992182
+                        </ArticleId>
+                        <ArticleId IdType="pmc">6037903
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.jcmgh.2018.05.003
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Callaway, E. M. &amp; Luo, L. Monosynaptic circuit tracing with glycoprotein-deleted rabies viruses. J. Neurosci. 35, 8979&#x2013;8985 (2015).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">26085623
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4469731
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1523/JNEUROSCI.0409-15.2015
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Russell, F. A., King, R., Smillie, S. J., Kodji, X. &amp; Brain, S. D. Calcitonin gene-related peptide: physiology and pathophysiology. Physiol. Rev. 94, 1099&#x2013;1142 (2014).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25287861
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4187032
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1152/physrev.00034.2013
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Kim, Y. J. &amp; Granstein, R. D. Roles of calcitonin gene-related peptide in the skin, and other physiological and pathophysiological functions. Brain Behav. Immun. Health 18, 100361 (2021).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">34746878
+                        </ArticleId>
+                        <ArticleId IdType="pmc">8551410
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.bbih.2021.100361
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Yang, D. et al. Nociceptor neurons direct goblet cells via a CGRP-RAMP1 axis to drive mucus production and gut barrier protection. Cell 185, 4190&#x2013;4205 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36243004
+                        </ArticleId>
+                        <ArticleId IdType="pmc">9617795
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cell.2022.09.024
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Horie, S., Michael, G. J. &amp; Priestley, J. V. Co-localization of TRPV1-expressing nerve fibers with calcitonin-gene-related peptide and substance P in fundus of rat stomach. Inflammopharmacology 13, 127&#x2013;137 (2005).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">16259734
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1163/156856005774423854
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Okabe, S. &amp; Amagase, K. An overview of acetic acid ulcer models-the history and state of the art of peptic ulcer research. Biol. Pharm. Bull. 28, 1321&#x2013;1341 (2005).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">16079471
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1248/bpb.28.1321
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lai, N. Y. et al. Gut-innervating nociceptor neurons regulate peyer&#x2019;s patch microfold cells and SFB levels to mediate Salmonella host defense. Cell 180, 33&#x2013;49 (2020).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">31813624
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cell.2019.11.014
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Le, T. T. et al. Sensory nerves enhance triple-negative breast cancer invasion and metastasis via the axon guidance molecule PlexinB3. npj Breast Cancer 8, 116 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36333352
+                        </ArticleId>
+                        <ArticleId IdType="pmc">9636220
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41523-022-00485-z
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Filliol, A. et al. Opposing roles of hepatic stellate cell subpopulations in hepatocarcinogenesis. Nature 610, 356&#x2013;365 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36198802
+                        </ArticleId>
+                        <ArticleId IdType="pmc">9949942
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-022-05289-6
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Carr, R. &amp; Frings, S. Neuropeptides in sensory signal processing. Cell Tissue Res. 375, 217&#x2013;225 (2019).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">30377783
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1007/s00441-018-2946-3
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Bocchi, R., Masserdotti, G. &amp; Gotz, M. Direct neuronal reprogramming: fast forward from new concepts toward therapeutic approaches. Neuron 110, 366&#x2013;393 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">34921778
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.neuron.2021.11.023
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Vermeiren, S., Bellefroid, E. J. &amp; Desiderio, S. Vertebrate sensory ganglia: common and divergent features of the transcriptional programs generating their functional specialization. Front. Cell Dev. Biol. 8, 587699 (2020).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">33195244
+                        </ArticleId>
+                        <ArticleId IdType="pmc">7649826
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.3389/fcell.2020.587699
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tomlinson, R. E. et al. NGF-TrkA signaling in sensory nerves is required for skeletal adaptation to mechanical loads in mice. Proc. Natl Acad. Sci. USA 114, E3632&#x2013;E3641 (2017).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28416686
+                        </ArticleId>
+                        <ArticleId IdType="pmc">5422802
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1073/pnas.1701054114
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Umoh, N. A. et al. Calcitonin gene-related peptide regulates cardiomyocyte survival through regulation of oxidative stress by PI3K/Akt and MAPK signaling pathways. Ann. Clin. Exp. Hypertens. 2, 1007 (2014).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25478604
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4251564
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Venkatesh, H. S. et al. Neuronal activity promotes glioma growth through neuroligin-3 secretion. Cell 161, 803&#x2013;816 (2015).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25913192
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4447122
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cell.2015.04.012
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Peterson, S. C. et al. Basal cell carcinoma preferentially arises from stem cells within hair follicle and mechanosensory niches. Cell Stem Cell 16, 400&#x2013;412 (2015).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25842978
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4387376
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.stem.2015.02.006
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Saloman, J. L. et al. Ablation of sensory neurons in a genetic model of pancreatic ductal adenocarcinoma slows initiation and progression of cancer. Proc. Natl Acad. Sci. USA 113, 3078&#x2013;3083 (2016).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">26929329
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4801275
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1073/pnas.1512603113
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Restaino, A. C. et al. Functional neuronal circuits promote disease progression in cancer. Sci. Adv. 9, eade4443 (2023).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">37163587
+                        </ArticleId>
+                        <ArticleId IdType="pmc">10171812
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1126/sciadv.ade4443
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhong, F., Christianson, J. A., Davis, B. M. &amp; Bielefeldt, K. Dichotomizing axons in spinal and vagal afferents of the mouse stomach. Dig. Dis. Sci. 53, 194&#x2013;203 (2008).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">17510799
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1007/s10620-007-9843-z
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lobikin, M., Chernet, B., Lobo, D. &amp; Levin, M. Resting potential, oncogene-induced tumorigenesis, and metastasis: the bioelectric basis of cancer in vivo. Phys. Biol. 9, 065002 (2012).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">23196890
+                        </ArticleId>
+                        <ArticleId IdType="pmc">3528107
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1088/1478-3975/9/6/065002
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Yang, M. &amp; Brackenbury, W. J. Membrane potential and cancer progression. Front. Physiol. 4, 185 (2013).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">23882223
+                        </ArticleId>
+                        <ArticleId IdType="pmc">3713347
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.3389/fphys.2013.00185
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lukyanetz, E. A. Different secretory vesicles can be involved in depolarization-evoked exocytosis. Biochem. Biophys. Res. Commun. 288, 844&#x2013;848 (2001).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">11688985
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1006/bbrc.2001.5844
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Bohorquez, D. V. et al. Neuroepithelial circuit formed by innervation of sensory enteroendocrine cells. J. Clin. Invest. 125, 782&#x2013;786 (2015).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25555217
+                        </ArticleId>
+                        <ArticleId IdType="pmc">4319442
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1172/JCI78361
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhang, W. et al. Gut-innervating nociceptors regulate the intestinal microbiota to promote tissue protection. Cell 185, 4170&#x2013;4189 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">36240781
+                        </ArticleId>
+                        <ArticleId IdType="pmc">9617796
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.cell.2022.09.008
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Gao, X. et al. Nociceptive nerves regulate haematopoietic stem cell mobilization. Nature 589, 591&#x2013;596 (2021).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">33361809
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41586-020-03057-y
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>McIlvried, L. A., Atherton, M. A., Horan, N. L., Goch, T. N. &amp; Scheff, N. N. Sensory neurotransmitter calcitonin gene-related peptide modulates tumor growth and lymphocyte infiltration in oral squamous cell carcinoma. Adv. Biol. 6, e2200019 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1002/adbi.202200019
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Edvinsson, L., Haanes, K. A., Warfvinge, K. &amp; Krause, D. N. CGRP as the target of new migraine therapies&#x2014;successful translation from bench to clinic. Nat. Rev. Neurol. 14, 338&#x2013;350 (2018).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">29691490
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1038/s41582-018-0003-1
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Elser, H. et al. Cancer risk in patients with migraine: a population-based cohort study in Denmark. Headache 62, 57&#x2013;64 (2022).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">35041219
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1111/head.14251
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Hayakawa, Y. et al. BHLHA15-positive secretory precursor cells can give rise to tumors in intestine and colon in mice. Gastroenterology 156, 1066&#x2013;1081 (2019).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">30448068
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1053/j.gastro.2018.11.024
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhan, J., Komal, R., Keenan, W. T., Hattar, S. &amp; Fernandez, D. C. Non-invasive strategies for chronic manipulation of DREADD-controlled neuronal activity. J. Vis. Exp. https://doi.org/10.3791/59439 (2019).
+                    </Citation>
+                </Reference>
+                <Reference>
+                    <Citation>de Sousae Melo, F. et al. A distinct role for Lgr5
+                        <sup>+
+                        </sup> stem cells in primary and metastatic colon cancer. Nature 543, 676&#x2013;680 (2017).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="doi">10.1038/nature21713
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ayer, A. et al. Techniques of sleeve gastrectomy and modified Roux-en-Y gastric bypass in mice. J. Vis. Exp. https://doi.org/10.3791/54905 (2017).
+                    </Citation>
+                </Reference>
+                <Reference>
+                    <Citation>Kaelberer, M. M. et al. A gut-brain neural circuit for nutrient sensory transduction. Science 361, eaat5236 (2018).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">30237325
+                        </ArticleId>
+                        <ArticleId IdType="pmc">6417812
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1126/science.aat5236
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Wolf, F. A. et al. SCANPY: large-scale single-cell gene expression data analysis. Genome Biol. 19, 15 (2018).
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">29409532
+                        </ArticleId>
+                        <ArticleId IdType="pmc">5802054
+                        </ArticleId>
+                        <ArticleId IdType="doi">10.1186/s13059-017-1382-0
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+            </ReferenceList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

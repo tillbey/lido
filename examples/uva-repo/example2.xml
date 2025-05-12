@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2025-02-14T16:17:49Z</responseDate>
+  <request identifier="oai:dare.uva.nl:openaire_cris_publications/e55e9c89-9fce-4e68-87f1-147656291f41" metadataPrefix="nl_didl" verb="GetRecord">https://pure.uva.nl/ws/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:dare.uva.nl:openaire_cris_publications/e55e9c89-9fce-4e68-87f1-147656291f41</identifier>
+        <datestamp>2018-09-25T18:00:57Z</datestamp>
+        <setSpec>openaire_cris_publications</setSpec>
+      </header>
+      <metadata>
+        <didl:DIDL xmlns:didl="urn:mpeg:mpeg21:2002:02-DIDL-NS" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dii="urn:mpeg:mpeg21:2002:01-DII-NS" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:didmodel="urn:mpeg:mpeg21:2002:02-DIDMODEL-NS" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dip="urn:mpeg:mpeg21:2005:01-DIP-NS" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DIDLDocumentId="urn:nbn:nl:ui:29-1.510826" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd urn:mpeg:mpeg21:2002:02-DIDL-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/did/didl.xsd urn:mpeg:mpeg21:2002:01-DII-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dii/dii.xsd urn:mpeg:mpeg21:2005:01-DIP-NS http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/dip/dip.xsd">
+          <didl:Item>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dii:Identifier>urn:nbn:nl:ui:29-1.510826</dii:Identifier>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Descriptor>
+              <didl:Statement mimeType="application/xml">
+                <dcterms:modified>2018-09-25T18:00:57Z</dcterms:modified>
+              </didl:Statement>
+            </didl:Descriptor>
+            <didl:Component>
+              <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/highenergy-gammaray-and-neutrino-backgrounds-from-starforming-galaxies(e55e9c89-9fce-4e68-87f1-147656291f41).html"></didl:Resource>
+            </didl:Component>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/descriptiveMetadata"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-1.510826-mods</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="application/xml">
+                  <mods:mods xmlns:gal="info:eu-repo/grantAgreement" xmlns:dai="info:eu-repo/dai" version="3.8" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd ">
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:recordInfo>
+                      <mods:recordContentSource>local</mods:recordContentSource>
+                    </mods:recordInfo>
+                    <mods:identifier type="pure/id">710620</mods:identifier>
+                    <mods:identifier type="pure/uuid">e55e9c89-9fce-4e68-87f1-147656291f41</mods:identifier>
+                    <mods:identifier type="local">researchoutputwizard: METIS_UVA_510826</mods:identifier>
+                    <mods:identifier type="local">record.ids: 510826</mods:identifier>
+                    <mods:identifier type="local">nbn.id: 1.510826</mods:identifier>
+                    <mods:identifier type="hdl" typeURI="http://id.loc.gov/vocabulary/identifiers/hdl">11245/1.510826</mods:identifier>
+                    <mods:identifier type="local">file.ids: 173905</mods:identifier>
+                    <mods:identifier type="scopus">84947599145</mods:identifier>
+                    <mods:note xlink:type="simple">Proceedings title: NOW 2014: Proceedings of the Neutrino Oscillation Workshop: Conca Specchiulla, Otranto, Italy: 7-13 September 2014 Publisher: Elsevier Place of publication: Amsterdam Editors: P. Bernardini, G. Fogli, E. Lisi</mods:note>
+                    <mods:titleInfo lang="eng" xlink:type="simple">
+                      <mods:title>High-energy gamma-ray and neutrino backgrounds from star-forming galaxies</mods:title>
+                    </mods:titleInfo>
+                    <mods:name authority="local" type="personal" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                      </mods:role>
+                      <mods:namePart type="given">I.</mods:namePart>
+                      <mods:namePart type="family">Tamborra</mods:namePart>
+                    </mods:name>
+                    <mods:name authority="local" lang="eng" type="corporate" xlink:type="simple">
+                      <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code">pbl</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/organisationType" type="text">/dk/atira/pure/organisation/organisationtypes/organisation/researchprogramme</mods:roleTerm>
+                      </mods:role>
+                      <mods:nameIdentifier type="pure/uuid">b409f429-90a4-4863-bb27-27f05a4d0acf</mods:nameIdentifier>
+                      <mods:namePart>String Theory (ITFA, IoP, FNWI)</mods:namePart>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/costcentre" type="text">23497</mods:roleTerm>
+                      </mods:role>
+                      <mods:role>
+                        <mods:roleTerm authority="pure/linkidentifier/sapid" type="text">UVA_String_Theory</mods:roleTerm>
+                      </mods:role>
+                    </mods:name>
+                    <mods:genre>info:eu-repo/semantics/article</mods:genre>
+                    <mods:note type="peerreview status" xlink:type="simple">Peer reviewed</mods:note>
+                    <mods:note type="publication category" xlink:type="simple">Academic</mods:note>
+                    <mods:note type="publication workflow state" xlink:type="simple">validated</mods:note>
+                    <mods:originInfo>
+                      <mods:dateIssued encoding="w3cdtf">2015</mods:dateIssued>
+                      <mods:dateOther encoding="w3cdtf" type="published">2015</mods:dateOther>
+                    </mods:originInfo>
+                    <mods:identifier type="doi" typeURI="http://id.loc.gov/vocabulary/identifiers/doi">10.1016/j.nuclphysbps.2015.06.061</mods:identifier>
+                    <mods:language>
+                      <mods:languageTerm authority="rfc3066" type="code">en</mods:languageTerm>
+                    </mods:language>
+                    <mods:abstract lang="eng" type="content" xlink:type="simple">Star-forming galaxies have been predicted to contribute considerably to the isotropic diffuse gamma-ray background. The hadronic interactions responsible for high-energy gamma rays also produce high-energy neutrinos. Assuming that at least 100 PeV cosmic rays can be produced and confined in starburst galaxies, the expected intensity of the diffuse gamma-ray and high-energy neutrinos from star-forming galaxies has been derived by adopting the latest Herschel data up to z∼4z∼4. We find that starburst galaxies could be the main contributor to the high-energy neutrinos observed by the IceCube experiment. Taking the starburst spectral index as free parameter, our predictions are consistent with Fermi and IceCube data simultaneously for a E−2.15E−2.15 spectrum for all starburst-like galaxies.</mods:abstract>
+                    <mods:accessCondition type="info:eu-repo/semantics/closedAccess" xlink:type="simple"></mods:accessCondition>
+                    <mods:note type="metadata visibility" xlink:type="simple">FREE</mods:note>
+                    <mods:note type="creatorCount" xlink:type="simple">1</mods:note>
+                    <mods:relatedItem type="host" xlink:role="" xlink:type="simple">
+                      <mods:titleInfo xlink:type="simple">
+                        <mods:title>Nuclear and Particle Physics Proceedings</mods:title>
+                      </mods:titleInfo>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">2405-6014</mods:identifier>
+                      <mods:identifier type="issn" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">2405-6022</mods:identifier>
+                      <mods:originInfo>
+                        <mods:publisher>Elsevier B.V.</mods:publisher>
+                      </mods:originInfo>
+                      <mods:part>
+                        <mods:detail type="volume">
+                          <mods:number>265-266</mods:number>
+                          <mods:caption>vol.</mods:caption>
+                        </mods:detail>
+                        <mods:extent unit="page">
+                          <mods:start>239</mods:start>
+                          <mods:end>241</mods:end>
+                          <mods:list>239-241</mods:list>
+                        </mods:extent>
+                      </mods:part>
+                    </mods:relatedItem>
+                    <mods:note type="publicationStatus" xlink:type="simple">published</mods:note>
+                  </mods:mods>
+                </didl:Resource>
+              </didl:Component>
+            </didl:Item>
+            <didl:Item>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <rdf:type rdf:resource="info:eu-repo/semantics/humanStartPage"></rdf:type>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Descriptor>
+                <didl:Statement mimeType="application/xml">
+                  <dii:Identifier>urn:nbn:nl:ui:29-1.510826/jump-off-page</dii:Identifier>
+                </didl:Statement>
+              </didl:Descriptor>
+              <didl:Component>
+                <didl:Resource mimeType="text/html" ref="https://dare.uva.nl/personal/pure/en/publications/highenergy-gammaray-and-neutrino-backgrounds-from-starforming-galaxies(e55e9c89-9fce-4e68-87f1-147656291f41).html"></didl:Resource>
+              </didl:Component>
+            </didl:Item>
+          </didl:Item>
+        </didl:DIDL>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>
