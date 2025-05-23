@@ -17,23 +17,32 @@
 
 <xsl:output method="text" indent="yes" />
 
-<xsl:import href="../identifiers/template.xsl"/>
+<xsl:import href="../common/normalize-identifier.xsl"/>
 
 <xsl:template match="/">
   <xsl:variable name="json">
     <array>
-      <xsl:apply-templates select="//oai:record/oai:metadata/didl:DIDL/didl:Item/didl:Item/didl:Component/didl:Resource"/>
+      <xsl:apply-templates select="//oai:record"/>
     </array>
   </xsl:variable>
   <xsl:copy-of select="xml-to-json($json)"/>
 </xsl:template>
 
-<xsl:template match="mods:mods">
+<xsl:template match="oai:record">
   <map>
     <map key="@context">
       <string key="schema">https://schema.org/</string>
       <string key="@vocab">schema</string>
     </map>
+    <string key="@id"><xsl:value-of select="oai:header/oai:identifier"/></string>
+    <string key="dateCreated"><xsl:value-of select="oai:header/oai:datestamp"/></string>
+    <xsl:apply-templates select="oai:metadata/didl:DIDL/didl:Item/didl:Item/didl:Component/didl:Resource"/>
+  </map>
+</xsl:template>
+
+
+<xsl:template match="mods:mods">
+  <map key="@graph">
     <string key="@type">schema:ScholarlyArticle</string>
     <map key="schema:title">
       <string key="@value"><xsl:value-of select="mods:titleInfo/mods:title"/></string>
@@ -56,16 +65,14 @@
         <map>
           <string key="schema:givenName"><xsl:value-of select="mods:namePart[@type='given']"/></string>
           <string key="schema:familyName"><xsl:value-of select="mods:namePart[@type='family']"/></string>
-          <xsl:if test="Identifier">
-            <array key="schema:identifier">
-              <xsl:for-each select="mods:nameIdentifier">
-                <xsl:call-template name="normalize-identifier">
-                  <xsl:with-param name="scheme" select="@Source"/>
-                  <xsl:with-param name="value" select="text()"/>
-                </xsl:call-template>
-              </xsl:for-each>
-            </array>
-          </xsl:if>
+          <array key="schema:identifier">
+            <xsl:for-each select="mods:nameIdentifier">
+              <xsl:call-template name="normalize-identifier">
+                <xsl:with-param name="scheme" select="@type"/>
+                <xsl:with-param name="value" select="text()"/>
+              </xsl:call-template>
+            </xsl:for-each>
+          </array>
         </map>
       </xsl:for-each>
     </array>
@@ -89,7 +96,7 @@
         <map key="schema:isPartOf">
           <string key="@type">schema:Periodical</string>
           <string key="schema:name"><xsl:value-of select="mods:titleInfo/mods:title"/></string>
-          <string key="schema:publisher"><xsl:value-of select="mods:originInfo/mods:publisher"/></string>
+          <xsl:apply-templates select="mods:originInfo/mods:publisher"/>
           <array key="schema:issn">
             <xsl:for-each select="mods:identifier[@type='issn']">
               <string><xsl:value-of select="text()"/></string>
@@ -103,5 +110,8 @@
   </map>
 </xsl:template>
 
+<xsl:template match="mods:publisher">
+  <string key="schema:publisher"><xsl:value-of select="."/></string>
+</xsl:template>
 
 </xsl:stylesheet>

@@ -1,0 +1,942 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+            <PMID Version="1">40346671
+            </PMID>
+            <DateCompleted>
+                <Year>2025
+                </Year>
+                <Month>05
+                </Month>
+                <Day>10
+                </Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2025
+                </Year>
+                <Month>05
+                </Month>
+                <Day>12
+                </Day>
+            </DateRevised>
+            <Article PubModel="Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1475-2840
+                    </ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>24
+                        </Volume>
+                        <Issue>1
+                        </Issue>
+                        <PubDate>
+                            <Year>2025
+                            </Year>
+                            <Month>May
+                            </Month>
+                            <Day>09
+                            </Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Cardiovascular diabetology
+                    </Title>
+                    <ISOAbbreviation>Cardiovasc Diabetol
+                    </ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>The association between different insulin resistance surrogates and all-cause mortality and cardiovascular mortality in patients with metabolic dysfunction-associated steatotic liver disease.
+                </ArticleTitle>
+                <Pagination>
+                    <StartPage>200
+                    </StartPage>
+                    <MedlinePgn>200
+                    </MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">200
+                </ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12933-025-02758-w
+                </ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Metabolic dysfunction-associated steatotic liver disease (MASLD) is closely associated with insulin resistance (IR). However, the prognostic value of different alternative IR surrogates in patients with MASLD remains unclear. This study aimed to evaluate the association between various IR indices and all-cause mortality and cardiovascular mortality in MASLD patients.
+                    </AbstractText>
+                    <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 8,753 adults aged&#x2009;&#x2265;&#x2009;20&#xa0;years with MASLD from the National Health and Nutrition Examination Survey (NHANES, 2003-2018) were included, and their mortality data were obtained from the National Death Index (NDI). Insulin resistance surrogates [including the triglyceride-glucose (TyG) index, TyG-body mass index (TyG-BMI), TyG-waist circumference index, TyG-waist-to-height ratio index, and Homeostatic Model Assessment for IR] were stratified into quartiles. Cox proportional hazards models, receiver operating characteristic (ROC) curve analysis, restricted cubic spline (RCS), mediation analyses, and subgroup analyses were used to explore the associations between these indices and all-cause mortality as well as cardiovascular mortality in MASLD patients.
+                    </AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">During a median follow-up of 98&#xa0;months, 1,234 deaths were observed, including 409 cardiovascular disease (CVD)-related deaths. In the fully adjusted model, higher quartiles of TyG-related indices were significantly associated with an increased risk of all-cause mortality in MASLD patients. Furthermore, the TyG-BMI index was associated with both all-cause mortality and CVD mortality [all-cause mortality: HR (95% CI) 2.84 (1.73-4.67), P&#x2009;&lt;&#x2009;0.001; CVD mortality: HR (95% CI) 5.32 (2.26-12.49), P&#x2009;&lt;&#x2009;0.001]. The RCS analyses indicated a U-shaped relationship between TyG-BMI and mortality, with a threshold value of 270.49. Subgroup analyses demonstrated that TyG-related indices had stronger associations with mortality in elderly MASLD patients.
+                    </AbstractText>
+                    <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our findings highlight the prognostic value of IR indices, particularly TyG-BMI index, in predicting all-cause mortality and CVD mortality in MASLD patients.
+                    </AbstractText>
+                    <CopyrightInformation>&#xa9; 2025. The Author(s).
+                    </CopyrightInformation>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y" EqualContrib="Y">
+                        <LastName>Gao
+                        </LastName>
+                        <ForeName>Xin
+                        </ForeName>
+                        <Initials>X
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y" EqualContrib="Y">
+                        <LastName>Chen
+                        </LastName>
+                        <ForeName>Tianyi
+                        </ForeName>
+                        <Initials>T
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zhou
+                        </LastName>
+                        <ForeName>Feilong
+                        </ForeName>
+                        <Initials>F
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Sun
+                        </LastName>
+                        <ForeName>Yanmei
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zhang
+                        </LastName>
+                        <ForeName>Jiaqi
+                        </ForeName>
+                        <Initials>J
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Li
+                        </LastName>
+                        <ForeName>Xinhao
+                        </ForeName>
+                        <Initials>X
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Zhao
+                        </LastName>
+                        <ForeName>Weijie
+                        </ForeName>
+                        <Initials>W
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Li
+                        </LastName>
+                        <ForeName>Yunxin
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Shi
+                        </LastName>
+                        <ForeName>Yanlong
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Niu
+                        </LastName>
+                        <ForeName>Kaiyi
+                        </ForeName>
+                        <Initials>K
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Wang
+                        </LastName>
+                        <ForeName>Yizhu
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y" EqualContrib="Y">
+                        <LastName>Zhang
+                        </LastName>
+                        <ForeName>Yewei
+                        </ForeName>
+                        <Initials>Y
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Hepatopancreatobiliary Center, The Second Affiliated Hospital of Nanjing Medical University, Jiangjiayuan 121, Nanjing, Jiangsu Province, China. zhangyewei@njmu.edu.cn.
+                            </Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Hepatobiliary Surgery, The Second Hospital of Shangdong University, Jinan, Shandong Province, China. zhangyewei@njmu.edu.cn.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y" EqualContrib="Y">
+                        <LastName>Zhang
+                        </LastName>
+                        <ForeName>Wei
+                        </ForeName>
+                        <Initials>W
+                        </Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Hepatobiliary and Pancreatic Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang Province, China. 1307018@zju.edu.cn.
+                            </Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng
+                </Language>
+                <GrantList CompleteYN="Y">
+                    <Grant>
+                        <GrantID>62227803
+                        </GrantID>
+                        <Agency>National Natural Science Foundation of China
+                        </Agency>
+                        <Country/>
+                    </Grant>
+                    <Grant>
+                        <GrantID>BE2022812
+                        </GrantID>
+                        <Agency>Jiangsu Province Social Development Project
+                        </Agency>
+                        <Country/>
+                    </Grant>
+                </GrantList>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article
+                    </PublicationType>
+                    <PublicationType UI="D003160">Comparative Study
+                    </PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2025
+                    </Year>
+                    <Month>05
+                    </Month>
+                    <Day>09
+                    </Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England
+                </Country>
+                <MedlineTA>Cardiovasc Diabetol
+                </MedlineTA>
+                <NlmUniqueID>101147637
+                </NlmUniqueID>
+                <ISSNLinking>1475-2840
+                </ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0
+                    </RegistryNumber>
+                    <NameOfSubstance UI="D015415">Biomarkers
+                    </NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0
+                    </RegistryNumber>
+                    <NameOfSubstance UI="D001786">Blood Glucose
+                    </NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0
+                    </RegistryNumber>
+                    <NameOfSubstance UI="D014280">Triglycerides
+                    </NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM
+            </CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D006801" MajorTopicYN="N">Humans
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D007333" MajorTopicYN="Y">Insulin Resistance
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D008297" MajorTopicYN="N">Male
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005260" MajorTopicYN="N">Female
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D002318" MajorTopicYN="Y">Cardiovascular Diseases
+                    </DescriptorName>
+                    <QualifierName UI="Q000401" MajorTopicYN="N">mortality
+                    </QualifierName>
+                    <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D002423" MajorTopicYN="N">Cause of Death
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D009749" MajorTopicYN="N">Nutrition Surveys
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers
+                    </DescriptorName>
+                    <QualifierName UI="Q000097" MajorTopicYN="N">blood
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000328" MajorTopicYN="N">Adult
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D001786" MajorTopicYN="Y">Blood Glucose
+                    </DescriptorName>
+                    <QualifierName UI="Q000378" MajorTopicYN="N">metabolism
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000368" MajorTopicYN="N">Aged
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D014280" MajorTopicYN="Y">Triglycerides
+                    </DescriptorName>
+                    <QualifierName UI="Q000097" MajorTopicYN="N">blood
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D005234" MajorTopicYN="Y">Fatty Liver
+                    </DescriptorName>
+                    <QualifierName UI="Q000401" MajorTopicYN="N">mortality
+                    </QualifierName>
+                    <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis
+                    </QualifierName>
+                    <QualifierName UI="Q000097" MajorTopicYN="N">blood
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States
+                    </DescriptorName>
+                    <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology
+                    </QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies
+                    </DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D015992" MajorTopicYN="N">Body Mass Index
+                    </DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">All-cause mortality
+                </Keyword>
+                <Keyword MajorTopicYN="N">Cardiovascular disease mortality
+                </Keyword>
+                <Keyword MajorTopicYN="N">Insulin resistance
+                </Keyword>
+                <Keyword MajorTopicYN="N">Metabolic dysfunction-associated steatotic liver disease
+                </Keyword>
+            </KeywordList>
+            <CoiStatement>Declarations. Ethics approval and consent to participate: NHANES database was conducted with approval by the National Center for Health Statistics Ethics Review Board, and obtained informed written consent from all the individuals involved in the study. Consent for publication: Not applicable. Competing interests: The authors declare no competing interests.
+            </CoiStatement>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2025
+                    </Year>
+                    <Month>2
+                    </Month>
+                    <Day>6
+                    </Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2025
+                    </Year>
+                    <Month>4
+                    </Month>
+                    <Day>26
+                    </Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2025
+                    </Year>
+                    <Month>5
+                    </Month>
+                    <Day>11
+                    </Day>
+                    <Hour>0
+                    </Hour>
+                    <Minute>44
+                    </Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2025
+                    </Year>
+                    <Month>5
+                    </Month>
+                    <Day>10
+                    </Day>
+                    <Hour>0
+                    </Hour>
+                    <Minute>48
+                    </Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2025
+                    </Year>
+                    <Month>5
+                    </Month>
+                    <Day>9
+                    </Day>
+                    <Hour>23
+                    </Hour>
+                    <Minute>42
+                    </Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pmc-release">
+                    <Year>2025
+                    </Year>
+                    <Month>5
+                    </Month>
+                    <Day>9
+                    </Day>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish
+            </PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">40346671
+                </ArticleId>
+                <ArticleId IdType="pmc">PMC12065324
+                </ArticleId>
+                <ArticleId IdType="doi">10.1186/s12933-025-02758-w
+                </ArticleId>
+                <ArticleId IdType="pii">10.1186/s12933-025-02758-w
+                </ArticleId>
+            </ArticleIdList>
+            <ReferenceList>
+                <Reference>
+                    <Citation>Riazi K, Azhari H, Charette JH, et al. The prevalence and incidence of NAFLD worldwide: a systematic review and meta-analysis. Lancet Gastroenterol Hepatol. 2022;7(9):851&#x2013;61.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">35798021
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Rinella ME, Lazarus JV, Ratziu V, et al. A multisociety Delphi consensus statement on new fatty liver disease nomenclature. J Hepatol. 2023;79(6):1542&#x2013;56.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">37364790
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Targher G, Byrne CD, Tilg H. MASLD: a systemic metabolic disorder with cardiovascular and malignant complications. Gut. 2024;73(4):691&#x2013;702.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">38228377
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Wainwright P, Byrne CD. Bidirectional relationships and disconnects between NAFLD and features of the metabolic syndrome. Int J Mol Sci. 2016;17(3):367.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC4813227
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">26978356
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Bril F, Kalavalapalli S, Lomonaco R, et al. Insulin resistance is an integral feature of MASLD even in the presence of PNPLA3 variants. JHEP Rep Innov Hepatol. 2024;6(7):101092.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11252529
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">39022386
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Jeppesen J, Hansen TW, Rasmussen S, et al. Insulin resistance, the metabolic syndrome, and risk of incident cardiovascular disease: a population-based study. J Am Coll Cardiol. 2007;49(21):2112&#x2013;9.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">17531661
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>DeFronzo RA, Tobin JD, Andres R. Glucose clamp technique: a method for quantifying insulin secretion and resistance. Am J Physiol. 1979;237(3):E214-223.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">382871
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Rani K, Patil P, Bharti P, Kumar S, Prabhala S. The undervalued league of insulin resistance testing: uncovering their importance. Hormone Mol Biol Clin Invest. 2024;45:99&#x2013;104.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">39113244
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>S&#xe1;nchez-Garc&#xed;a A, Rodr&#xed;guez-Guti&#xe9;rrez R, Mancillas-Adame L, et al. Diagnostic accuracy of the triglyceride and glucose index for insulin resistance: a systematic review. Int J Endocrinol. 2020;2020:4678526.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC7085845
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">32256572
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Hou XZ, Lv YF, Li YS, et al. Association between different insulin resistance surrogates and all-cause mortality in patients with coronary heart disease and hypertension: NHANES longitudinal cohort study. Cardiovasc Diabetol. 2024;23(1):86.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC10903030
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">38419039
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Liu C, Liang D, Xiao K, Xie L. Association between the triglyceride-glucose index and all-cause and CVD mortality in the young population with diabetes. Cardiovasc Diabetol. 2024;23(1):171.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11097545
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">38755682
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lonardo A, Mantovani A, Lugari S, Targher G. Epidemiology and pathophysiology of the association between NAFLD and metabolically healthy or metabolically unhealthy obesity. Ann Hepatol. 2020;19(4):359&#x2013;66.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">32349939
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Er LK, Wu S, Chou HH, et al. Triglyceride glucose-body mass index is a simple and clinically useful surrogate marker for insulin resistance in nondiabetic individuals. PLoS ONE. 2016;11(3):e0149731.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC4773118
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">26930652
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lim J, Kim J, Koo SH, Kwon GC. Comparison of triglyceride glucose index, and related parameters to predict insulin resistance in Korean adults: an analysis of the 2007&#x2013;2010 Korean National Health and Nutrition Examination Survey. PLoS ONE. 2019;14(3):e0212963.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC6405083
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">30845237
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ruhl CE, Everhart JE. Fatty liver indices in the multiethnic United States National Health and Nutrition Examination Survey. Aliment Pharmacol Ther. 2015;41(1):65&#x2013;76.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">25376360
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Savage DB, Choi CS, Samuel VT, et al. Reversal of diet-induced hepatic steatosis and hepatic insulin resistance by antisense oligonucleotide inhibitors of acetyl-CoA carboxylases 1 and 2. J Clin Investig. 2006;116(3):817&#x2013;24.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC1366503
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">16485039
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Neschen S, Morino K, Hammond LE, et al. Prevention of hepatic steatosis and hepatic insulin resistance in mitochondrial acyl-CoA: glycerol-sn-3-phosphate acyltransferase 1 knockout mice. Cell Metab. 2005;2(1):55&#x2013;65.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">16054099
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Samuel VT, Liu ZX, Qu X, et al. Mechanism of hepatic insulin resistance in non-alcoholic fatty liver disease. J Biol Chem. 2004;279(31):32345&#x2013;53.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">15166226
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lambert JE, Ramos-Roman MA, Browning JD, Parks EJ. Increased de novo lipogenesis is a distinct characteristic of individuals with nonalcoholic fatty liver disease. Gastroenterology. 2014;146(3):726&#x2013;35.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC6276362
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">24316260
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Reaven GM, Hollenbeck C, Jeng CY, Wu MS, Chen YD. Measurement of plasma glucose, free fatty acid, lactate, and insulin for 24 h in patients with NIDDM. Diabetes. 1988;37(8):1020&#x2013;4.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">3292322
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Sanyal AJ, Campbell-Sargent C, Mirshahi F, et al. Nonalcoholic steatohepatitis: association of insulin resistance and mitochondrial abnormalities. Gastroenterology. 2001;120(5):1183&#x2013;92.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">11266382
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Sunny NE, Parks EJ, Browning JD, Burgess SC. Excessive hepatic mitochondrial TCA cycle and gluconeogenesis in humans with nonalcoholic fatty liver disease. Cell Metab. 2011;14(6):804&#x2013;10.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC3658280
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">22152305
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Powell EE, Wong VW, Rinella M. Non-alcoholic fatty liver disease. Lancet (London, England). 2021;397(10290):2212&#x2013;24.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">33894145
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Targher G, Corey KE, Byrne CD. NAFLD, and cardiovascular and cardiac diseases: Factors influencing risk, prediction and treatment. Diabetes Metab. 2021;47(2):101215.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">33296704
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Jayagopal V, Kilpatrick ES, Jennings PE, Hepburn DA, Atkin SL. Biological variation of homeostasis model assessment-derived insulin resistance in type 2 diabetes. Diabetes Care. 2002;25(11):2022&#x2013;5.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">12401750
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tao LC, Xu JN, Wang TT, Hua F, Li JJ. Triglyceride-glucose index as a marker in cardiovascular diseases: landscape and limitations. Cardiovasc Diabetol. 2022;21(1):68.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC9078015
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">35524263
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tahapary DL, Pratisthita LB, Fitri NA, et al. Challenges in the diagnosis of insulin resistance: focusing on the role of HOMA-IR and Tryglyceride/glucose index. Diabetes Metab Syndrome. 2022;16(8):102581.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">35939943
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Tenenbaum A, Klempfner R, Fisman EZ. Hypertriglyceridemia: a too long unfairly neglected major cardiovascular risk factor. Cardiovasc Diabetol. 2014;13:159.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC4264548
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">25471221
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Bril F, Sninsky JJ, Baca AM, et al. Hepatic steatosis and insulin resistance, but not steatohepatitis, promote atherogenic dyslipidemia in NAFLD. J Clin Endocrinol Metab. 2016;101(2):644&#x2013;52.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">26672634
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Knapp M, Tu X, Wu R. Vascular endothelial dysfunction, a major mediator in diabetic cardiomyopathy. Acta Pharmacol Sin. 2019;40(1):1&#x2013;8.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC6318313
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">29867137
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Liu Q, Zhang Y, Chen S, et al. Association of the triglyceride-glucose index with all-cause and cardiovascular mortality in patients with cardiometabolic syndrome: a national cohort study. Cardiovasc Diabetol. 2024;23(1):80.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC10893675
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">38402393
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ding W, Fang C, Wang L, Fang C. Triglyceride-glucose index and risk of all-cause and cardiovascular mortality in patients with cardiovascular disease: analysis from 1999 to 2018 NHANES data. Medicine. 2024;103(46):e40534.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11575983
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">39560572
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zheng S, Shi S, Ren X, et al. Triglyceride glucose-waist circumference, a novel and effective predictor of diabetes in first-degree relatives of type 2 diabetes patients: cross-sectional and prospective cohort study. J Transl Med. 2016;14(1):260.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC5015232
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">27604550
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>McLaughlin T, Lamendola C, Liu A, Abbasi F. Preferential fat deposition in subcutaneous versus visceral depots is associated with insulin sensitivity. J Clin Endocrinol Metab. 2011;96(11):E1756-1760.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC3205890
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">21865361
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Arita Y, Kihara S, Ouchi N, et al. Paradoxical decrease of an adipose-specific protein, adiponectin, in obesity. 1999. Biochem Biophys Res Commun. 2012;425(3):560&#x2013;4.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">22925674
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Bray GA, Kim KK, Wilding JPH. Obesity: a chronic relapsing progressive disease process. A position statement of the World Obesity Federation. Obes Rev. 2017;18(7):715&#x2013;23.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28489290
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zhao D, Cui H, Shao Z, Cao L. Abdominal obesity, chronic inflammation and the risk of non-alcoholic fatty liver disease. Ann Hepatol. 2023;28(4):100726.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">35636732
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ding L, Fu B, Zhang H, et al. The impact of triglyceride glucose-body mass index on all-cause and cardiovascular mortality in elderly patients with diabetes mellitus: evidence from NHANES 2007&#x2013;2016. BMC Geriatr. 2024;24(1):356.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11034154
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">38649828
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Zeng ZY, Liu SX, Xu H, et al. Association of triglyceride glucose index and its combination of obesity indices with prehypertension in lean individuals: a cross-sectional study of Chinese adults. J Clin Hypertens (Greenwich). 2020;22(6):1025&#x2013;32.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC8029919
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">32442359
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Wang J, Yan S, Cui Y, et al. The diagnostic and prognostic value of the triglyceride-glucose index in metabolic dysfunction-associated fatty liver disease (MAFLD): a systematic review and meta-analysis. Nutrients. 2022;14(23):4969.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC9741077
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">36500999
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Dou J, Guo C, Wang Y, et al. Association between triglyceride glucose-body mass and one-year all-cause mortality of patients with heart failure: a retrospective study utilizing the MIMIC-IV database. Cardiovasc Diabetol. 2023;22(1):309.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC10634170
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">37940979
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Sawada K, Chung H, Softic S, Moreno-Fernandez ME, Divanovic S. The bidirectional immune crosstalk in metabolic dysfunction-associated steatotic liver disease. Cell Metab. 2023;35(11):1852&#x2013;71.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC10680147
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">37939656
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Glass CK, Olefsky JM. Inflammation and lipid signaling in the etiology of insulin resistance. Cell Metab. 2012;15(5):635&#x2013;45.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC4156155
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">22560216
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Liang D, Liu C, Wang Y. The association between triglyceride-glucose index and the likelihood of cardiovascular disease in the U.S. population of older adults aged &#x2265; 60 years: a population-based study. Cardiovasc Diabetol. 2024;23(1):151.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11067197
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">38702717
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Park SW, Ning H, Carnethon MR, VanWagner LB. Cardiovascular health trajectories and prevalent metabolic dysfunction-associated steatotic liver disease in midlife: The CARDIA Study. J Am Heart Assoc. 2025;14(8):e037948.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">40194968
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Ou Y, Qin Z, Wang P, Zou F. Serum uric acid to high-density lipoprotein cholesterol ratio predicts all-cause mortality in adults with metabolic dysfunction associated steatotic liver disease. Sci Rep. 2025;15(1):11278.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC11965447
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">40175515
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Lonardo A, Nascimbeni F, Ballestri S, et al. Sex differences in nonalcoholic fatty liver disease: state of the art and identification of research gaps. Hepatology (Baltimore, MD). 2019;70(4):1457&#x2013;69.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pmc">PMC6766425
+                        </ArticleId>
+                        <ArticleId IdType="pubmed">30924946
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Nasr P, Shang Y, Wester A, et al. Socioeconomic factors associated with the presence of and outcomes in metabolic dysfunction-associated steatotic liver disease. Liver Int. 2024;44(11):3050&#x2013;9.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">39221810
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+                <Reference>
+                    <Citation>Noriea AH, Patel FN, Werner DA, Peek ME. A narrative review of physician perspectives regarding the social and environmental determinants of obesity. Curr DiabRep. 2018;18(5):24.
+                    </Citation>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">29564581
+                        </ArticleId>
+                    </ArticleIdList>
+                </Reference>
+            </ReferenceList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

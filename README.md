@@ -10,7 +10,7 @@ Initially this repository contains a number of XSL templates to transform the AP
 
 ## Run a transform
 
-The templates are rely on XSLT 3.0 in order to construct well formed JSON output. You can run the CLI tool of saxonjs to run the transforms like this:
+The templates are rely on XSLT 3.0 in order to construct well formed JSON output. You can run the CLI tool of saxonjs (xslt3)[https://www.npmjs.com/package/xslt3] to run the transforms like this:
 
 ```shell
 xslt3 -xsl:formats/didl-mods/template.xsl -s:resources/uu-cris/example.xml -o:output.xml -t && cat output.xml | jq > output.json
